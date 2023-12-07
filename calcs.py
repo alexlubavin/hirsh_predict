@@ -4,7 +4,7 @@ import numpy as np
 import streamlit as st
 from streamlit.logger import get_logger
 
-model_df = pd.read_excel('C:/Users/Doc/Desktop/hirsh/data.xlsx')
+model_df = pd.read_excel('data.xlsx')
 
 import pickle
 
